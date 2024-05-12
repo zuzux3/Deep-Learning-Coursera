@@ -10,6 +10,7 @@
 4. When building a neural network to predict housing price from features like size, the number of bedrooms, zip code, and wealth, it is necessary to come up with other features in between input and output like family size and school quality. True/False?
    - False
 5. Which of the following depicts a Sigmoid activation function?
+   ![image](Neural Networks and Deep Learning/ Week 1/Figure 2.png)
    - Fig 2 [Added]
 6. Features of animals, such as weight, height, and color, are used for classification between cats, dogs, or others. This is an example of "structured" data, because they are represented as arrays in a computer. True/False?
    - True. Yes. The data can be represented by columns of data. This is an example of structured data unlike images of the animal.
